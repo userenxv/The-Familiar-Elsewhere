@@ -1,0 +1,10 @@
+{
+  "name": "The Familiar Elsewhere(似曾之境)",
+  "author": "enxv233",
+  "license": "ARR",
+  "minecraft": "Java 1.21.1",
+  "archive": "The-Familiar-Elsewhere-Java-1.21.1.zip",
+  "archive_sha256": "d7ce650725d17350e89bca2024bb0edeefb055ad595a70ac288ff758c1042022",
+  "archive_bytes": 76633883,
+  "world_files": 253
+}
